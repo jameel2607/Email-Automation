@@ -29,10 +29,12 @@ pip install pandas openpyxl
 ## 📁 Files Used
 
 All files should be in the same folder:
-
+```
 .
 ├── contacts.xlsx # Your contact data
 ├── email_script.py # The email automation script
 └── README.md # This documentation
+```
+
 
 
