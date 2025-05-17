@@ -45,3 +45,29 @@ Ensure your spreadsheet has the following columns:
 |:-----|:--------:|------:|
 | John   | OpenAI | john@example.com |
 | Sarah   |  DataCorp  |   	sarah@example.org |
+
+## 🧾 How to Use
+
+1. Prepare Your Contact List:
+
+    - Fill in the contacts.xlsx file with recipient names, companies, and email addresses.
+
+2. Set Your Credentials:
+
+    - Open email_script.py.
+
+    - Replace the YOUR_EMAIL and YOUR_PASSWORD fields.
+
+        - Use a Gmail App Password if 2FA is on.
+          
+3. Run the Script:
+
+   ```
+   python email_script.py
+    ```
+
+4. Check Console Output:
+
+    - You'll see messages like Email sent to John at john@example.com.
+  
+## Gmail Sending Limits
