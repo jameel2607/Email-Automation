@@ -80,7 +80,7 @@ Ensure your spreadsheet has the following columns:
 
 Note: One email to 10 people = 10 recipients. Exceeding limits may block your account temporarily.
 
-##🧠 Tips & Recommendations
+## 🧠 Tips & Recommendations
 
 - Add a delay between emails to avoid getting flagged as spam:
 
