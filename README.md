@@ -78,4 +78,22 @@ Ensure your spreadsheet has the following columns:
 | Google Workspace (Paid) |	| 2,000 |
 | Workspace Free Trial |	| 500 |
 
-##
+Note: One email to 10 people = 10 recipients. Exceeding limits may block your account temporarily.
+
+##🧠 Tips & Recommendations
+
+- Add a delay between emails to avoid getting flagged as spam:
+
+```
+import time
+time.sleep(2)  # 2-second delay between sends
+```
+
+- For larger lists:
+
+    - Send in batches (e.g., 50–100 emails per run).
+    
+    - Use logging or checkpointing to avoid duplicates if the script crashes.
+
+- Consider using email services like SendGrid, Mailchimp, or Gmail API for sending thousands of emails.
+
