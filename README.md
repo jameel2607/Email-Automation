@@ -37,4 +37,11 @@ All files should be in the same folder:
 ```
 
 
+## 📋 contacts.xlsx Format
 
+Ensure your spreadsheet has the following columns:
+
+| First Name	 |  Company Name	  | mailid |
+|:-----|:--------:|------:|
+| John   | OpenAI | john@example.com |
+| Sarah   |  DataCorp  |   	sarah@example.org |
