@@ -77,3 +77,5 @@ Ensure your spreadsheet has the following columns:
 | Personal Gmail |	| 500 |
 | Google Workspace (Paid) |	| 2,000 |
 | Workspace Free Trial |	| 500 |
+
+##
