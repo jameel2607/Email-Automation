@@ -71,3 +71,9 @@ Ensure your spreadsheet has the following columns:
     - You'll see messages like Email sent to John at john@example.com.
   
 ## Gmail Sending Limits
+
+| Gmail Account Type |	| Max Recipients/Day |
+|:-----|:--------:|------:|
+| Personal Gmail |	| 500 |
+| Google Workspace (Paid) |	| 2,000 |
+| Workspace Free Trial |	| 500 |
